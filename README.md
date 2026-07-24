@@ -1,7 +1,7 @@
 # Hi 👋, I'm Anand
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE Student
+- 🎓 B.Tech CSE(AI&ML) Student
 - 💻 Learning C++, DSA, and Web Development
 - 🌱 Currently solving LeetCode problems
 
