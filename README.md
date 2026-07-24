@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Anand
+
+## 🚀 About Me
+- 🎓 B.Tech CSE Student
+- 💻 Learning C++, DSA, and Web Development
+- 🌱 Currently solving LeetCode problems
+
+## 🛠 Skills
+- C++
+- HTML
+- CSS
+- Git & GitHub
 
 <!--
 **anandprakash-x/anandprakash-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
